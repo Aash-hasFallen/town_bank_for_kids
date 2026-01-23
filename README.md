@@ -90,5 +90,4 @@ python -m http.server
 Open http://localhost:8000 in your browser
 
 
-That’s it.  
-No more commands, no setup steps — clean, correct, judge-proof ✅
+That’s it✅.
